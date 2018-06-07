@@ -1,0 +1,23 @@
+{
+  "name": "webpack__4.3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/npupiec/webpack__4.3.git"
+  },
+  "author": "Nina Pupiec",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/npupiec/webpack__4.3/issues"
+  },
+  "homepage": "https://github.com/npupiec/webpack__4.3#readme",
+  "devDependencies": {
+    "webpack": "^4.11.1",
+    "webpack-cli": "^3.0.3"
+  }
+}
